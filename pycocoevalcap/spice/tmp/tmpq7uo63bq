@@ -1,0 +1,132 @@
+[
+  {
+    "image_id": 129001,
+    "tests": [
+      ""
+    ],
+    "refs": [
+      "a bath tub sitting next to a sink in a bathroom",
+      "the bathroom is clean and ready for us to use",
+      "a bath tub sitting next to a sink",
+      "a bathroom that has a shower curtain over a bathtub",
+      "a bathroom with multicolored tile bathtub and pedestal sink"
+    ]
+  },
+  {
+    "image_id": 184613,
+    "tests": [
+      ""
+    ],
+    "refs": [
+      "a child holding a flowered umbrella and petting a yak",
+      "a young man holding an umbrella next to a herd of cattle",
+      "a young boy barefoot holding an umbrella touching the horn of a cow",
+      "a young boy with an umbrella who is touching the horn of a cow",
+      "a boy holding an umbrella while standing next to livestock"
+    ]
+  },
+  {
+    "image_id": 321107,
+    "tests": [
+      ""
+    ],
+    "refs": [
+      "a woman rides a bicycle on a road next to the median",
+      "a girl is riding her bike down the street",
+      "a lady riding her bicycle on the side of a street",
+      "a person on a bike riding on a street",
+      "a woman riding a bike down a street next to a divider"
+    ]
+  },
+  {
+    "image_id": 340559,
+    "tests": [
+      ""
+    ],
+    "refs": [
+      "there are two sinks next to two mirrors",
+      "two very metallic sinks are shown as well as the mirrors above them",
+      "a room with stainless steel equipment including sinks and mirrors",
+      "two stainless steel sinks with mirrors and a fire extinguisher",
+      "a photo of a bathroom made of steel"
+    ]
+  },
+  {
+    "image_id": 360772,
+    "tests": [
+      ""
+    ],
+    "refs": [
+      "a toilet sitting in a bathroom next to a sink",
+      "a toilet in a bathroom with green faded paint",
+      "a bathroom with a gouged wall and wall socket with no panel",
+      "the toilet is near the door in the bathroom",
+      "the bathroom wall needs to be resurfaced and painted"
+    ]
+  },
+  {
+    "image_id": 364521,
+    "tests": [
+      ""
+    ],
+    "refs": [
+      "a red helmet is on a yellow toilet in the dirt",
+      "a yellow toilet with a red helmet on top of it",
+      "a yellow toilet with a red helmet above it",
+      "a toilet sitting in an outdoor area with a helmet resting on top of it",
+      "an old toilet sits in dirt with a helmet on top"
+    ]
+  },
+  {
+    "image_id": 403013,
+    "tests": [
+      ""
+    ],
+    "refs": [
+      "a narrow kitchen filled with appliances and cooking utensils",
+      "a galley kitchen with cabinets and appliances on both sides",
+      "a hallway leading into a white kitchen with appliances",
+      "doorway view of a kitchen with a sink stove refrigerator and pantry",
+      "the pantry door of the small kitchen is closed"
+    ]
+  },
+  {
+    "image_id": 472621,
+    "tests": [
+      ""
+    ],
+    "refs": [
+      "an elegant bathroom features a tub sink mirror and decorations",
+      "an old fashion above ground tub is shown with gold feet",
+      "a lovely vintage-styled bathroom with a great claw-footed tub",
+      "bathroom with a pedestal sink and claw foot bathtub",
+      "a claw foot tub is in a large bathroom near a pedestal sink"
+    ]
+  },
+  {
+    "image_id": 556616,
+    "tests": [
+      ""
+    ],
+    "refs": [
+      "a row of parked cars sitting next to parking meters",
+      "a row of cars parked on a street with parking meters",
+      "a series of parking meters and cars are located next to each other",
+      "a parking meter on a street by a car with traffic",
+      "a parking meter on a street with cars"
+    ]
+  },
+  {
+    "image_id": 562150,
+    "tests": [
+      ""
+    ],
+    "refs": [
+      "a little girl holding a kitten next to a blue fence",
+      "girl in a tank top holding a kitten in her back yard",
+      "a young girl is holding a small cat",
+      "girl with a yellow shirt holding a small cat",
+      "a girl smiles as she holds a kitty cat"
+    ]
+  }
+]
